@@ -9,14 +9,14 @@ class ComposerStaticInitfd25e16d7fa70abb090233730a3d45d9
     public static $prefixLengthsPsr4 = array (
         'J' => 
         array (
-            'Juliil\\' => 7,
+            'Jcode\\' => 6,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Juliil\\' => 
+        'Jcode\\' => 
         array (
-            0 => __DIR__ . '/..' . '/Jcode/php-classes/src',
+            0 => __DIR__ . '/..' . '/jcode/php-classes/src',
         ),
     );
 
