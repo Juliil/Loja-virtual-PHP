@@ -1,0 +1,19 @@
+{
+    "name": "Juliil/fpfchallenge",
+    "authors": [
+        {
+            "name": "Júlio Rezende",
+            "email": "juliorezendee@gmail.com"
+        }
+    ],
+    "require": {
+    	"phpmailer/phpmailer":"5.2.22",
+    	"slim/slim":"2.0",
+    	"rain/raintpl":"3.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Juliil\\": "vendor\\Jcode\\php-classes\\src"
+        }
+    }
+}
